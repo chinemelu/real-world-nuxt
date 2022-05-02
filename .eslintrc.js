@@ -16,7 +16,8 @@ module.exports = {
       "ignores": [
         'NavBar',
         'create',
-        'default'
+        'default',
+        'index'
       ]
     }]
   }
