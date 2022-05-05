@@ -17,7 +17,8 @@ module.exports = {
         'NavBar',
         'create',
         'default',
-        'index'
+        'index',
+        'error'
       ]
     }]
   }
